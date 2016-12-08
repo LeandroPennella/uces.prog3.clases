@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="0407"/>
+	<classpathentry kind="src" path="0410"/>
+	<classpathentry kind="src" path="0414"/>
+	<classpathentry kind="src" path="0417 - excepciones"/>
+	<classpathentry kind="src" path="0421 - excepciones"/>
+	<classpathentry kind="src" path="0505 - Colecciones Comparable"/>
+	<classpathentry kind="src" path="0508 - contains, remove, iterate"/>
+	<classpathentry kind="src" path="0512 - Colecciones, Comparator"/>
+	<classpathentry kind="src" path="0519 - Patron Estado - Semaforo"/>
+	<classpathentry kind="src" path="0522 - File - Binarios"/>
+	<classpathentry kind="src" path="0526 - File - Texto"/>
+	<classpathentry kind="src" path="0529 - DataIOStream"/>
+	<classpathentry kind="src" path="0602 - Threads"/>
+	<classpathentry kind="src" path="0605 - Threads"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

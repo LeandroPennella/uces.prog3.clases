@@ -1,0 +1,5 @@
+public static void mostrarContenido(String carpeta);
+devuela o error o listado
+si no existe decir
+si no es una carpeta decir
+si existe y es una carpeta listar
